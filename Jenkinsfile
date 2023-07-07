@@ -60,6 +60,7 @@ pipeline {
                  -Dsonar.projectKey=CICD \
                  -Dsonar.host.url=http://3.88.217.187:9000 \
                  -Dsonar.login=447d14ffb906daef60d2f29d882555a23f353a29
+                 
                 """
                 }
             }
