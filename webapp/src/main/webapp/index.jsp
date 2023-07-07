@@ -20,7 +20,7 @@
 </head>
 <body>
 <div class="header">
-  <h1>Hello JJ Tech Family !!!</h1>
+  <h1>DIS WORK NO EASY OH MA PIPO!!!</h1>
   <p>This Java Web Application Was Deployed Using CI/CD by FOCHO MUKOM</p>
 </div>
 </body>
